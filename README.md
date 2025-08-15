@@ -16,8 +16,12 @@ This repository serves as a **research & development hub** for:
 - docs/ # Notes, preferences, and technical summaries
 - resources/ # Curated books, papers, datasets (will contain links only)
 
-# Tech Stack
+## Tech Stack
 ** Languages & Labraries:** Python, NumPy, Pandas, SciPy, Scikit-learn, PyPortfolioOpt, Matplotlib, StatModels, C++
 ** Tools:** Jupyter, Git, Github Actions (CI/CD), Conda/Micromamba
 ** Domains:** Quantiative Finance, Optimization, Risk Modelling, Machine Learning
 
+## License
+MIT Licance - see the [LICENSE](./LICENSE) file for details.
+
+> _This lab is a work in progress — structured for reproducibility, transparency, and continuous improvement._
