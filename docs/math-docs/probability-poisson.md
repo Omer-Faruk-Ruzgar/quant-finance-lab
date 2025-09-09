@@ -14,5 +14,5 @@ If $X_n \sim \text{Pois}(\lambda)$ as $n\to\infty$.
 Key Limits:
 - $M_X(t) = \exp\(\lambda(e^t-1))$
 
-**Notebook**: `notebooks/math_notebook/poisson_from_binomial.ipynb`
+**Notebook**: `notebooks/math-notebook/poisson_from_binomial.ipynb`
 **Module**: `src/math-src/poisson.py`
