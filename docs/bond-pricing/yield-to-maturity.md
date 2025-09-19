@@ -32,6 +32,9 @@ $$M = FVe^{-y(T-t)}+ \sum_{i = 1}^{N}Ce^{-y(t_i - t)}$$
 
 This equation gives more accurate results than the approximation formula, provided the yield is quoted under continuous compounding (or equivalently the spot/zero‐rates use continuous compounding). In many real‐world bond markets, however, yields are calculated with discrete compounding (e.g. semi‐annual or annual), so one must check market convention before applying the continuous formula.
 
+## Status 
+*Learning in Progress* - Adding implementation and examples soon
+
 ## References
 
 - Steve Bell, *Quantiative Finance for Dummies*, Wiley, pp. 75-76.
